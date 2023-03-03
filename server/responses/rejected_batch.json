@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "schemaId": 156,
+    "data": {
+      "manufacturingDate": "2020-07-11",
+      "batchID": "BA664",
+      "productName": "Vitamin K",
+      "expiryDate": "2022-07-01",
+      "intendedMarket": "Malaysia",
+      "milkCollectionDate": "2020-06-21",
+      "lastQualityDate": "2020-07-18",
+      "customsClearanceCertificateData": "ref373657666"
+    }
+  },
+  "codeFlags": [
+    {
+      "id": 4,
+      "name": "Rejected by inspection"
+    }
+  ],
+  "validationCount": 0,
+  "code": "{code}",
+  "result": {
+    "status": "VERIFIED",
+    "errors": [
+      {
+        "code": 108,
+        "message": "Code {code} has status 'Rejected by inspection'"
+      }
+    ]
+  },
+  "recalls": {}
+}

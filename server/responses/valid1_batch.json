@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "schemaId": 156,
+    "data": {
+      "manufacturingDate": "2020-11-05",
+      "batchID": "BA138",
+      "productName": "Vitamin C",
+      "expiryDate": "2022-11-01",
+      "intendedMarket": "China",
+      "milkCollectionDate": "2020-10-11",
+      "lastQualityDate": "2020-11-10",
+      "customsClearanceCertificateData": "ref53452222"
+    }
+  },
+  "validationCount": 2,
+  "code": "{code}",
+  "result": {
+    "status": "VALID",
+    "errors": []
+  },
+  "recalls": {}
+}

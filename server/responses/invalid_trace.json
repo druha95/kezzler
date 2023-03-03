@@ -1,0 +1,8 @@
+{
+  "timestamp": "2020-11-17T13:55:51.09Z",
+  "status": 400,
+  "error": "Bad Request",
+  "code": "Client.InvalidCodeException",
+  "message": "Invalid code: {code}",
+  "path": "/compass-ws-rest/trace/{code}"
+}

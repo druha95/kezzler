@@ -1,0 +1,31 @@
+{
+  "self": {
+    "code": "{code}",
+    "packageType": {
+      "name": "Can",
+      "type": "OTHER",
+      "material": "OTHER"
+    }
+  },
+  "events": {
+    "event": [
+      {
+        "eventTime": 1560770281000,
+        "disposition": "urn:epcglobal:cbv:disp:reserved",
+        "bizStep": "urn:epcglobal:cbv:bizstep:reserving",
+        "location": {
+          "name": "Factory",
+          "country": {
+            "code": "NL",
+            "name": "NL"
+          },
+          "coordinates": {
+            "latitude": 52.86333,
+            "longitude": 6.51389
+          }
+        },
+        "type": "ObjectEvent"
+      }
+    ]
+  }
+}

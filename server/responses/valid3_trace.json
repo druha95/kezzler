@@ -1,0 +1,65 @@
+{
+  "self": {
+    "code": "{code}",
+    "packageType": {
+      "name": "Can",
+      "type": "OTHER",
+      "material": "OTHER"
+    }
+  },
+  "events": {
+    "event": [
+      {
+        "eventTime": 1560770416000,
+        "disposition": "urn:epcglobal:cbv:disp:in_progress",
+        "bizStep": "urn:epcglobal:cbv:bizstep:shipping",
+        "location": {
+          "name": "Warehouse Singapore",
+          "country": {
+            "code": "SG",
+            "name": "SG"
+          },
+          "coordinates": {
+            "latitude": 1.290270,
+            "longitude": 103.851959
+          }
+        },
+        "type": "ObjectEvent"
+      },
+      {
+        "eventTime": 1560770384000,
+        "disposition": "urn:epcglobal:cbv:disp:in_progress",
+        "bizStep": "urn:epcglobal:cbv:bizstep:shipping",
+        "location": {
+          "name": "Warehouse NL",
+          "country": {
+            "code": "NL",
+            "name": "NL"
+          },
+          "coordinates": {
+            "latitude": 52.36333,
+            "longitude": 6.21389
+          }
+        },
+        "type": "ObjectEvent"
+      },
+      {
+        "eventTime": 1560770284000,
+        "disposition": "urn:epcglobal:cbv:disp:reserved",
+        "bizStep": "urn:epcglobal:cbv:bizstep:reserving",
+        "location": {
+          "name": "Factory",
+          "country": {
+            "code": "NL",
+            "name": "NL"
+          },
+          "coordinates": {
+            "latitude": 52.86333,
+            "longitude": 6.51389
+          }
+        },
+        "type": "ObjectEvent"
+      }
+    ]
+  }
+}
